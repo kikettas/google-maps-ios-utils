@@ -1,0 +1,24 @@
+PODS:
+  - GoogleMaps (3.7.0):
+    - GoogleMaps/Maps (= 3.7.0)
+  - GoogleMaps/Base (3.7.0)
+  - GoogleMaps/Maps (3.7.0):
+    - GoogleMaps/Base
+  - OCMock (3.4.3)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - OCMock
+
+SPEC REPOS:
+  trunk:
+    - GoogleMaps
+    - OCMock
+
+SPEC CHECKSUMS:
+  GoogleMaps: 55da829c68aa931f3ae982b9e341cc2f3d89c587
+  OCMock: 43565190abc78977ad44a61c0d20d7f0784d35ab
+
+PODFILE CHECKSUM: 83bd83816ba65d874d6611f1d01e617e3b23771e
+
+COCOAPODS: 1.8.4
